@@ -1,4 +1,6 @@
 # FlaskChatBot
+![image](https://github.com/user-attachments/assets/5c3f4634-9f1d-47cd-8cde-fb6a6b7af1b1)
+
 ## Installation & Setup
 
 [Install Python] https://www.python.org/downloads/
